@@ -13,20 +13,6 @@ Overgrown is a 2D top-down game created in Unity. It is a two-player Co-op game 
 - Enemies are drawn to a player and automatically follow the player based on position.
 - Homepage to direct players to the actual combat or other preferences like options to see controls.
 
-# Design
-UML : https://drive.google.com/file/d/1ncaVr--bm-6ZlyibmiD9ZZYybruYmCEM/view?usp=sharing
-Trello Board: https://trello.com/b/cIPeSPxo/cs345-trello-dev6
-
-# Sprint 1 
-
-
-# Sprint 2
-review doc: https://docs.google.com/document/d/1TONnDUjtv5yFl8jSOo2wNyt_QlUEoWZvD6t3tHA47vY/edit?usp=sharing 
-The goal of this sprint was to combine our individual work to demonstrate starting the game. 
-Integrating player movement into the UI in place was crucial.
-retrospective: https://docs.google.com/document/d/1B2oLj7do2nMbk6ZOLBaE8mjv9HcX_RO7l-6ViINlZpM/edit?usp=sharing 
-
-# Kanban
 
 # Contributions
 - Lukas: Weapon Class and Enemy Class, Player Health.
